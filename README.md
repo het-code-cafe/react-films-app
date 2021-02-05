@@ -1,3 +1,6 @@
+# Code by Jeroen Rijsdijk
+Ga voor meer van dit soort projecten naar https://www.linkedin.com/in/jrijsdijk/
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
